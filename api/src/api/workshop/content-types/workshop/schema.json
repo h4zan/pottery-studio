@@ -1,0 +1,61 @@
+{
+  "kind": "collectionType",
+  "collectionName": "workshops",
+  "info": {
+    "singularName": "workshop",
+    "pluralName": "workshops",
+    "displayName": "workshop",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "description": {
+      "type": "text"
+    },
+    "price": {
+      "type": "decimal"
+    },
+    "date": {
+      "type": "datetime"
+    },
+    "maxParticipants": {
+      "type": "integer"
+    },
+    "instructor": {
+      "type": "string"
+    },
+    "duration": {
+      "type": "string"
+    },
+    "availableSpots": {
+      "type": "integer"
+    },
+    "location": {
+      "type": "string"
+    },
+    "language": {
+      "type": "string"
+    },
+    "isAvailable": {
+      "type": "boolean",
+      "default": true
+    },
+    "plannedDay": {
+      "type": "string"
+    },
+    "img": {
+      "type": "media",
+      "multiple": false,
+      "required": false,
+      "allowedTypes": [
+        "images"
+      ]
+    }
+  }
+}
