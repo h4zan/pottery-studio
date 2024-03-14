@@ -6,7 +6,7 @@ Project to revisit a pottery shop project, reminiscent of an earlier creation du
 
 ###
 
-![App Screenshot](https://i.postimg.cc/mhxyXCkY/pottery-shop-1.png)
+![App Screenshot](https://i.postimg.cc/bwZ4T2YJ/pottery-shop.png)
 
 #### 💡Vision board ![`Vision Board`](https://i.postimg.cc/tC8NmChD/vision-board.png)
 
