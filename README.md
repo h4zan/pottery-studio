@@ -11,7 +11,3 @@ Project to revisit a pottery shop project, reminiscent of an earlier creation du
 #### 💡Vision board ![`Vision Board`](https://i.postimg.cc/tC8NmChD/vision-board.png)
 
 ##### 🎨 Images are by Pexel and Unsplash.
-
-```
-
-```
