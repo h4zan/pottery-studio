@@ -6,8 +6,8 @@ Project to revisit a pottery shop project, reminiscent of an earlier creation du
 
 ###
 
-![App Screenshot](https://i.postimg.cc/bwZ4T2YJ/pottery-shop.png)
+![App Screenshot](/client/src/assets/img/pottery-shop.jpg)
 
-#### 💡Vision board ![`Vision Board`](https://i.postimg.cc/tC8NmChD/vision-board.png)
+#### 💡Vision board ![`Vision Board`](/client/src/assets/img/vision-board.jpg)
 
 ##### 🎨 Images are by Pexel and Unsplash.
